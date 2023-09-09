@@ -1,6 +1,8 @@
 ### 안녕하세요, 이연성 입니다.  || "Hi ~ Im' Yeonsung" 👋
 
 
+blog 1 : https://jdiinkstone9.tistory.com/
+blog 2 : https://jdiinkstone9.tistory.com/
 
 <!--
 **JdiInkStone/JdiInkStone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
