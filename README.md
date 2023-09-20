@@ -2,6 +2,7 @@
 </br>
 
 * **_Blog 1 :_** https://jdiinkstone9.tistory.com/
+* **_Blog 2 :_** https://blog.naver.com/jdiinkstone9
 
 <!--
 **JdiInkStone/JdiInkStone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
